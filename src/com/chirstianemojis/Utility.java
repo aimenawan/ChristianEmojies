@@ -4,9 +4,6 @@ import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 
-/**
- * Created by wirate on 8/19/14.
- */
 public class Utility {
     private Utility() {
     }

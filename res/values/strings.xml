@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chirstian Emojis</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_terms_and_conditions">TermsAndConditionsActivity</string>
+    <string name="title_activity_profile">Set Profile</string>
+    <string name="title_activity_grouplist">GrouplistActivity</string>
+
+</resources>
